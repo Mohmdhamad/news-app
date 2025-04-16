@@ -1,16 +1,40 @@
-# news
+# 📰 Flutter News App
 
-A new Flutter project.
+A modern news application built with Flutter and Bloc pattern, featuring real-time news updates, dark/light theme, and multi-category browsing.
 
-## Getting Started
+## ✨ Features
+- 🔍 Search news articles
+- 🌙 Dark/Light theme toggle
+- 📰 Multiple news categories
+- 🚀 Bloc state management
+- 🌍 Real-time API data
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
+- Flutter 3.x
+- Bloc Pattern
+- Dio for HTTP
+- NewsAPI.org
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Quick Start
+1. Clone repo:
+```bash
+git clone https://github.com/Mohmdhamad/news-app.git
+```
+2.Install dependencies:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```bash
+flutter pub get
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3.Run app:
+```bash
+flutter run
+```
+
+🔧 Configuration
+Get API key from NewsAPI.org
+
+Add to lib/shared/network/remote/dio_helper.dart
+
+🤝 Contributing
+PRs welcome! Please open an issue first to discuss changes.

@@ -31,10 +31,11 @@ flutter pub get
 flutter run
 ```
 
-🔧 Configuration
-Get API key from NewsAPI.org
+##🔧 Configuration
 
-Add to lib/shared/network/remote/dio_helper.dart
+-Get API key from NewsAPI.org
 
-🤝 Contributing
-PRs welcome! Please open an issue first to discuss changes.
+-Add to lib/shared/network/remote/dio_helper.dart
+
+##🤝 Contributing
+- PRs welcome! Please open an issue first to discuss changes.

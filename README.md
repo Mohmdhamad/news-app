@@ -33,9 +33,9 @@ flutter run
 
 ##🔧 Configuration
 
--Get API key from NewsAPI.org
+- Get API key from NewsAPI.org
 
--Add to lib/shared/network/remote/dio_helper.dart
+- Add to lib/shared/network/remote/dio_helper.dart
 
 ##🤝 Contributing
 - PRs welcome! Please open an issue first to discuss changes.
